@@ -1,0 +1,16 @@
+[
+{
+  "modid": "evo.FruitCraft",
+  "name": "FruitCraft",
+  "description": "Adds a bit of fruity things to your cubic world.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Hisui_Ryuto, spuash918, PURASU32"],
+  "credits": "SPECIAL THANKS:The Forge and FML guys, for making the API.AKASATANAHAMA, the Minecraft Modding Wiki makers, Mcreator for the Sample code.elise_blacklab for giving me instructions.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
